@@ -1,0 +1,1 @@
+pandoc index.html -f html -t markdown -o README.md
