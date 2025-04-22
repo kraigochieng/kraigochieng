@@ -6,3 +6,5 @@
 
 **Python:** Pandas, FastAPI, Scikit-learn
 **JavaScript:** Vue.js
+
+_Balance is the key to life_
