@@ -1,4 +1,5 @@
-# Kraig Ochieng | Data Scientist & Web Developer
+# Kraig Ochieng
+## Data Scientist & Web Developer
 
 <table style="border-collapse: separate; border-spacing: 0; border-radius: 12px; overflow: hidden; border: 1px solid #ccc;">
   <tr>
