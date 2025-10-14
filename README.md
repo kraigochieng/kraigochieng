@@ -17,8 +17,21 @@ Passionate about creating scalable solutions that blend data, design, and functi
 ---
 
 ### 🚀 Projects
-- **[Medilinda](https://github.com/kraigochieng/medilinda):** End-to-end ML & analytics platform with ETL workflows, MLflow tracking, and Nuxt.js integration.  
+- **[Medilinda](https://github.com/kraigochieng/medilinda):**  
+  End-to-end ML & analytics platform with ETL workflows, MLflow tracking, and Nuxt.js integration.  
+  <sub>_Vue, Python, FastAPI, MLflow_</sub>
 
+- **[diamond-price-predictor](https://github.com/kraigochieng/diamond-price-predictor):**  
+  Full-stack web app for predicting diamond prices using an MLflow-managed model.  
+  <sub>_Python, FastAPI, MLflow, Vue.js_</sub>
+
+- **[image_to_ascii_2](https://github.com/kraigochieng/image_to_ascii_2):**  
+  Python web application that converts images into ASCII art, producing text-based image representations.  
+  <sub>_Python, Flask_</sub>
+
+- **[gradient-descent-visualiser](https://github.com/kraigochieng/gradient-descent-visualiser):**  
+  Web app visualising the gradient descent process — plots points, computes loss (MSE), and displays the optimised line.  
+  <sub>_Vue, D3.js, FastAPI_</sub>
 ---
 
 ### 🌱 Currently Exploring
