@@ -56,3 +56,9 @@ Passionate about creating scalable solutions that blend data, design, and functi
 ![kraigochieng stats](https://github-readme-stats.vercel.app/api?username=kraigochieng&show_icons=true&theme=gruvbox)
 
 > _“Balance is the key to life.”_
+
+<p align="center">
+  <a href="https://github.com/kraigochieng">
+    <img src="https://komarev.com/ghpvc/?username=kraigochieng&color=blue&style=flat)" />
+  </a>
+</p>
