@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Kraig Ochieng  
+
 ## 🧠 Data Scientist & 💻 Web Developer
 
 I build **data-driven systems** and **web applications** that turn ideas into real-world impact.  
