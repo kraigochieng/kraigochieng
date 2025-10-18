@@ -8,8 +8,10 @@ Passionate about creating scalable solutions that blend data, design, and functi
 
 ### 🛠️ Tech Stack
 
-**Languages & Tools:** 
-[![Python With Tools](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev) | [![Python With Tools](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev)
+
+[![Python With Tools](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![Python With Tools](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
+
+[![Python With Tools](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 
 - 🐍 **Python:** Pandas, FastAPI, Scikit-learn  
 - ⚡ **JavaScript:** Vue.js, Nuxt.js  
