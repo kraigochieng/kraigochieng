@@ -16,52 +16,19 @@ Passionate about creating scalable solutions that blend data, design, and functi
 | **Databases** | [![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev) |
 | **API Testing** | [![API](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) |
 | **Operating Systems** | [![OS](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev) |
-| **Cloud** | [![Cloud](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
+| **Cloud** | [![Cloud](https://skillicons.dev/icons?i=vercel,azure)](https://skillicons.dev) |
 | **Containerisation** | [![Containerisation](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) |
-
-### Languages
-#### Python
-[![Python](https://skillicons.dev/icons?i=py,fastapi,flask,sklearn,pytorch)](https://skillicons.dev)
-
-#### JS
-[![JS](https://skillicons.dev/icons?i=js,nodejs,vue,nuxtjs,d3,pinia)](https://skillicons.dev)
-
-### CI/CD
-[![CI/CD](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
-
-### Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
-
-### API Testing
-[![API](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-
-### OS
-[![OS](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
-
-### Cloud
-[![Cloud](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
-
-### Containerisation
-[![Containerisation](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ---
 
 ## 🚀 Projects
-- **[Medilinda](https://github.com/kraigochieng/medilinda):**  
-  End-to-end ML & analytics platform with ETL workflows, MLflow tracking, and Nuxt.js integration.  
-  <sub>_Vue, Python, FastAPI, MLflow_</sub>
+| **Project** | **Description** | **Tech Stack** |
+|--------------|----------------|----------------|
+| [**Medilinda**](https://github.com/kraigochieng/medilinda) | End-to-end ML & analytics platform with ETL workflows, MLflow tracking, and Nuxt.js integration. | <sub>_Vue, Python, FastAPI, MLflow_</sub> |
+| [**Gradient Descent Visualiser**](https://github.com/kraigochieng/gradient-descent-visualiser) | Web app visualising the gradient descent process — plots points, computes loss (MSE), and displays the optimised line. | <sub>_Vue, D3.js, FastAPI_</sub> |
+| [**Diamond Price Predictor**](https://github.com/kraigochieng/diamond-price-predictor) | Full-stack web app for predicting diamond prices using an MLflow-managed model. | <sub>_Python, FastAPI, MLflow, Vue.js_</sub> |
+| [**Image To Ascii**](https://github.com/kraigochieng/image_to_ascii_2) | Python web application that converts images into ASCII art, producing text-based image representations. | <sub>_Python, Flask_</sub> |
 
-- **[Gradient Descent Visualiser](https://github.com/kraigochieng/gradient-descent-visualiser):**  
-  Web app visualising the gradient descent process — plots points, computes loss (MSE), and displays the optimised line.  
-  <sub>_Vue, D3.js, FastAPI_</sub>
-  
-- **[Diamond Price Predictor](https://github.com/kraigochieng/diamond-price-predictor):**  
-  Full-stack web app for predicting diamond prices using an MLflow-managed model.  
-  <sub>_Python, FastAPI, MLflow, Vue.js_</sub>
-
-- **[Image To Ascii](https://github.com/kraigochieng/image_to_ascii_2):**  
-  Python web application that converts images into ASCII art, producing text-based image representations.  
-  <sub>_Python, Flask_</sub>
 ---
 
 ## 🌱 Currently Exploring
