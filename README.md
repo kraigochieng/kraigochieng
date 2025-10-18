@@ -31,10 +31,6 @@ Passionate about creating scalable solutions that blend data, design, and functi
 
 #### Containerisation
 [![Cloud](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
-- 🗃️ **Databases:** PostgreSQL, SQLite, MySQL
-- ☁️ **ML & Analytics:** MLflow
-
 ---
 
 ### 🚀 Projects
