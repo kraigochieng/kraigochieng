@@ -8,21 +8,30 @@ Passionate about creating scalable solutions that blend data, design, and functi
 
 ### 🛠️ Tech Stack
 
-<h4 style="display: flex; align-items: center; gap: 0.5rem;">
-  Python 
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" height="24" />
-  </a>
-</h4>
+#### Python
+[![Python](https://skillicons.dev/icons?i=py,fastapi,flask,sklearn,pytorch)](https://skillicons.dev)
 
-#### Python [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![Python Tools](https://skillicons.dev/icons?i=fastapi,flask,pytorch)](https://skillicons.dev)
+#### JS
+[![JS](https://skillicons.dev/icons?i=js,nodejs,vue,nuxtjs,d3,pinia)](https://skillicons.dev)
 
-#### Python [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![JS Tools](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+#### CI/CD
+[![CI/CD](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
 
-- 🐍 **Python:** Pandas, FastAPI, Scikit-learn  
-- ⚡ **JavaScript:** Vue.js, Nuxt.js  
+#### Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
+
+#### API Testing
+[![API](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+
+#### OS
+[![OS](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+
+#### Cloud
+[![Cloud](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+
+#### Containerisation
+[![Cloud](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
 - 🗃️ **Databases:** PostgreSQL, SQLite, MySQL
 - ☁️ **ML & Analytics:** MLflow
 
