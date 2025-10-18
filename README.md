@@ -8,6 +8,17 @@ Passionate about creating scalable solutions that blend data, design, and functi
 
 ## 🛠️ Tech Stack
 
+| **Category** | **Tools / Frameworks** |
+|---------------|------------------------|
+| **Python** | [![Python](https://skillicons.dev/icons?i=py,fastapi,flask,sklearn,pytorch)](https://skillicons.dev) |
+| **JavaScript** | [![JS](https://skillicons.dev/icons?i=js,nodejs,vue,nuxtjs,d3,pinia)](https://skillicons.dev) |
+| **CI/CD** | [![CI/CD](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev) |
+| **Databases** | [![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev) |
+| **API Testing** | [![API](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) |
+| **Operating Systems** | [![OS](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev) |
+| **Cloud** | [![Cloud](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
+| **Containerisation** | [![Containerisation](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) |
+
 ### Languages
 #### Python
 [![Python](https://skillicons.dev/icons?i=py,fastapi,flask,sklearn,pytorch)](https://skillicons.dev)
@@ -31,7 +42,8 @@ Passionate about creating scalable solutions that blend data, design, and functi
 [![Cloud](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
 ### Containerisation
-[![Cloud](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Containerisation](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
 ---
 
 ## 🚀 Projects
