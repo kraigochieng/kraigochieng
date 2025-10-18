@@ -8,7 +8,13 @@ Passionate about creating scalable solutions that blend data, design, and functi
 
 ### 🛠️ Tech Stack
 
-**Languages & Tools:**  
+**Languages & Tools:** 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js" />
+  </a>
+</p>
+
 - 🐍 **Python:** Pandas, FastAPI, Scikit-learn  
 - ⚡ **JavaScript:** Vue.js, Nuxt.js  
 - 🗃️ **Databases:** PostgreSQL, SQLite, MySQL
