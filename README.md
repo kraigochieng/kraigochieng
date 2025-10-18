@@ -8,6 +8,13 @@ Passionate about creating scalable solutions that blend data, design, and functi
 
 ### 🛠️ Tech Stack
 
+<h4 style="display: flex; align-items: center; gap: 0.5rem;">
+  Python 
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" height="24" />
+  </a>
+</h4>
+
 #### Python [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![Python Tools](https://skillicons.dev/icons?i=fastapi,flask,pytorch)](https://skillicons.dev)
 
