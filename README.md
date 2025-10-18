@@ -1,39 +1,40 @@
 # 👋 Hi, I'm Kraig Ochieng  
-### 🧠 Data Scientist & 💻 Web Developer  
+## 🧠 Data Scientist & 💻 Web Developer
 
 I build **data-driven systems** and **web applications** that turn ideas into real-world impact.  
 Passionate about creating scalable solutions that blend data, design, and functionality.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
+### Languages
 #### Python
 [![Python](https://skillicons.dev/icons?i=py,fastapi,flask,sklearn,pytorch)](https://skillicons.dev)
 
 #### JS
 [![JS](https://skillicons.dev/icons?i=js,nodejs,vue,nuxtjs,d3,pinia)](https://skillicons.dev)
 
-#### CI/CD
+### CI/CD
 [![CI/CD](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
 
-#### Databases
+### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
-#### API Testing
+### API Testing
 [![API](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
-#### OS
+### OS
 [![OS](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 
-#### Cloud
+### Cloud
 [![Cloud](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
-#### Containerisation
+### Containerisation
 [![Cloud](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 - **[Medilinda](https://github.com/kraigochieng/medilinda):**  
   End-to-end ML & analytics platform with ETL workflows, MLflow tracking, and Nuxt.js integration.  
   <sub>_Vue, Python, FastAPI, MLflow_</sub>
@@ -51,16 +52,22 @@ Passionate about creating scalable solutions that blend data, design, and functi
   <sub>_Python, Flask_</sub>
 ---
 
-### 🌱 Currently Exploring
+## 🌱 Currently Exploring
 - Data warehouse architecture & analytics engineering  
 - Cloud data workflows (BigQuery, Dataflow, dbt)  
 - MLOps and data governance  
 
 ---
 
-### 📫 Connect with Me
-<a href="https://github.com/kraigochieng" target="_blank">GitHub</a> · 
-<a href="https://www.linkedin.com/in/kraig-ochieng-911121215/" target="_blank">LinkedIn</a> · 
+## 📫 Connect with Me
+<a href="https://github.com/kraigochieng" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+.
+<a href="https://www.linkedin.com/in/kraig-ochieng-911121215/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+.
 <a href="https://coff.ee/kraigochieng" target="_blank">Buy me a Coffee</a>
 
 ---
