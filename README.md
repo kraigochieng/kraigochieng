@@ -5,7 +5,7 @@
 
 _TL;DR:_ data + visualisations using `.py` and `.ts`
 
-_“Balance is the key to life.”_
+> _“Balance is the key to life.”_
 
 <p align="right">
   <a href="https://kraigochieng.github.io">Portfolio</a> •
