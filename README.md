@@ -3,7 +3,7 @@
   <h4>Data Scientist & Web Developer</h4>
 </div>
 
-_TL;DR:_ data + visualisations using `.py` and `.ts`
+_TL;DR:_ Data-driven recommendations to drive business decisions in finance, healthcare and education using `.py`, `.ts` and `.sql`
 
 > _“Balance is the key to life.”_
 
