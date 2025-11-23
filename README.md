@@ -5,9 +5,10 @@
 
 Data-driven recommendations to drive business decisions in finance, healthcare and education using `.py`, `.ts` and `.sql`
 
-Recommendations can be from:
-- Dashboards and Reports
-- Outputs from Machine Learning Models
+Recommendations formats:
+- Dashboards
+- Reports
+- Machine Learning Models
 
 > _“Balance is the key to life.”_
 
