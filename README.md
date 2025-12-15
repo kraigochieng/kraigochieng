@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
   <h3>Kraig Ochieng</h3>
-  <h4>Data Scientist & Web Developer</h4>
+  <h4>Data Scientist & Data Analyst</h4>
 </div>
 
 Data-driven recommendations to drive business decisions in finance, healthcare and education using `.py`, `.ts` and `.sql`
