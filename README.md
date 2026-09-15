@@ -3,13 +3,6 @@
   <h4>AI Engineer</h4>
 </div>
 
-Data-driven recommendations to drive business decisions in finance, healthcare and education using `.py`, `.ts` and `.sql`
-
-Recommendations formats:
-- Dashboards
-- Reports
-- Machine Learning Models
-
 > _“Balance is the key to life.”_
 
 <p align="right">
