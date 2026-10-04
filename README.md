@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
   <h3>Kraig Ochieng</h3>
-  <h4>AI Engineer</h4>
+  <h4>Agentic Engineer</h4>
 </div>
 
 > _“Balance is the key to life.”_
